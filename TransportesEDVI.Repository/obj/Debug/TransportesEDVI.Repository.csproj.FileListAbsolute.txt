@@ -1,0 +1,108 @@
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll.config
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.pdb
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.xml
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.csprojResolveAssemblyReference.cache
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.pdb
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll.config
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.pdb
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.xml
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.csprojResolveAssemblyReference.cache
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.pdb
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll.config
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.pdb
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.xml
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.resources.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.csprojResolveAssemblyReference.cache
+D:\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.dll
+D:\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.pdb
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll.config
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.pdb
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll.config
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.csprojResolveAssemblyReference.cache
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll.config
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.Repository.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.csprojResolveAssemblyReference.cache
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\PROYECTOS 1\t2\implementacion\TransportesEDVI\TransportesEDVI.Repository\obj\Debug\TransportesEDVI.Repository.pdb
