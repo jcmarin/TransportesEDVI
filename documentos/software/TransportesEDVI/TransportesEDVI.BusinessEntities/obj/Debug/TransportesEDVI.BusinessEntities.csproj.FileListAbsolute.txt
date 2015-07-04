@@ -1,0 +1,25 @@
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\JhanPier\Documents\Visual Studio 2012\Projects\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\jc\Dropbox\¬¬\DOCUMENTOS FINAAL!\T2\PROYECTO VISUAL\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.dll
+D:\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+D:\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.csprojResolveAssemblyReference.cache
+D:\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.dll
+D:\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\Edwuard\Dropbox\¬¬ (3)\DOCUMENTOS FINAAL!\Nueva carpeta\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.BusinessEntities\bin\Debug\TransportesEDVI.BusinessEntities.pdb
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.dll
+C:\Users\JCMarin\Dropbox\¬¬\DOCUMENTOS FINAAL!\DIARS\FINAL\Implementacion\TransportesEDVI\TransportesEDVI.BusinessEntities\obj\Debug\TransportesEDVI.BusinessEntities.pdb
